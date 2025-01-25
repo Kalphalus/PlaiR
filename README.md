@@ -4,5 +4,8 @@
   Music Streamer/MP3 Player
 </p>
 
-## Credits
+  <h1 align="center">Credits</h1>
+<div align="center">
+
 [Comfortaa Font](https://fonts.google.com/specimen/Comfortaa/license?preview.text=PlaiR)
+</div>
