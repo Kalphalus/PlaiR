@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/Kalphalus/.github/blob/b8ac5dd6e74e4610489393dcd229c4eabd90576c/PlaiR/assets/logo.plair.extended.png" alt="Logo" width="300">
-  <br><br>
+
   Music Streamer/MP3 Player
-</p>
+
 
   <h1 align="center">Credits</h1>
 <div align="center">
